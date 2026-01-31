@@ -15,9 +15,9 @@ Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio E
 
 ## About
 
-During my PhD, I explored and applied qualitative and quantitative research tools to the analysis of textual data within interdisciplinary research projects. In particular, I built and analysed corpora using a Corpus-Assisted Discourse Studies (CADS) approach, which iteratively combines the more quantitative corpus linguistic element with the more qualitative discourse analytical perspective. 
+During my PhD, I explored and applied **qualitative** and **quantitative** research tools to the **analysis of textual data** within interdisciplinary research projects. In particular, I built and analysed **corpora** using a **Corpus-Assisted Discourse Studies** (CADS) approach, which iteratively combines the more quantitative **corpus linguistics** element with the more qualitative **discourse analytical** perspective. 
 
-I am passionate about everything related to language as a social practice; my interests also include human-machine interaction, the non-neutrality of technology, and the social and political implications of phenomena such as the datafication and platformisation of society.
+I am passionate about everything related to **language as a social practice**; my interests also include **human-machine interaction**, the **non-neutrality of technology**, and the **social** and **political** implications of phenomena such as the **datafication** and **platformisation** of society.
 
 *Beyond research, I alternate between tennis, books, and long chats with friends.*
 
