@@ -7,7 +7,7 @@ Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio E
 ## Contact
 
 - Email: [francesca.nannetti@unimore.it](mailto:francesca.nannetti@unimore.it)
-- LinkedIn: linkedin.com/in/francesca-nannetti-1446b021b
+- LinkedIn: [linkedin.com/in/francesca-nannetti-1446b021b](https://www.linkedin.com/in/francesca-nannetti-1446b021b/)
 - ORCID: https://orcid.org/0009-0005-9197-869X
 - Bluesky: https://bsky.app/profile/francescanannetti.bsky.social
 
@@ -41,9 +41,9 @@ I am passionate about everything related to language as a social practice; my in
 ## Education
 
 - **2022–present** — **PhD in Work, Development and Innovation**, Università di Modena e Reggio Emilia  
-  Titolo della tesi: *Exploring Graduate Recruitment Practices through Job Advertisements and Curricula Vitae: a Corpus Approach to HRM Research*  
+  Thesis: *Exploring Graduate Recruitment Practices through Job Advertisements and Curricula Vitae: a Corpus Approach to HRM Research*  
   Supervisor: Anna Chiara Scapolan · Co-supervisor: Matteo Di Cristofaro  
-  Data presunta di conseguimento: **Mar 2026**
+  Expected completion: **Mar 2026**
 
 - **2019–2022** — **MA in Italian Studies, European Literary Cultures and Linguistics**, Alma Mater Studiorum – Università di Bologna  
   Curriculum: **Linguistics** · LM-14  
@@ -65,7 +65,7 @@ I am passionate about everything related to language as a social practice; my in
 ## Additional training
 
 - **Jun–Aug 2025** — **Corpus Linguistics: Method, Analysis, Interpretation** (MOOC), Lancaster University  
-  Certificato: [FutureLearn certificate](https://www.futurelearn.com/certificates/hqubjac)  
+  Certificate: [FutureLearn certificate](https://www.futurelearn.com/certificates/hqubjac)  
   This course offered a practical introduction to corpus linguistics, covering skills necessary for collecting and analysing large digital collections of text. The use of corpora was demonstrated in a variety of areas including discourse analysis, sociolinguistics, and language learning and teaching.
 
 
