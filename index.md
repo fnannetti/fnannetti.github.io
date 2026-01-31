@@ -66,3 +66,42 @@ I am passionate about everything related to language as a social practice; my in
   This course offered a practical introduction to corpus linguistics, covering skills necessary for collecting and analysing large digital collections of text. The use of corpora was demonstrated in a variety of areas including discourse analysis, sociolinguistics, and language learning and teaching.
 
 
+
+
+  ---
+
+## Publications
+
+- Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (*forthcoming*) Reflecting on human
+  competencies in the era of AI-driven recruitment: a Corpus-Assisted Discourse Study of
+  Curricula Vitae. *Studi Organizzativi*.
+
+- Costantini, E. & Nannetti, F. (*forthcoming*). «Se non sei su GePI non esisti»: opacità e
+  visibilità del lavoro nella riconfigurazione digitale del welfare. *Sociologia del Lavoro*.
+
+- Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (2025) Can AI-driven Résumé Screening
+  Reflect Human Competence Complexity? A Corpus-Assisted Discourse Analysis of Curricula
+  Vitae. In *WOA 2025 Proceedings - NAVIGATING ORGANIZATIONAL CHANGE IN TIMES OF
+  UNCERTAINTY*, 233-240. ISBN 979-12-210-9700-9.  
+  [Proceedings/WOA2025](https://www.assioa.it/sito/wp-content/uploads/WOA2025_proceedings_merged.pdf)
+
+- Costantini, E., D'Aguanno, M.C., Gallo, G., & Nannetti, F. (2025). Meccanismi di impoverimento
+  e conoscenza: una riflessione a partire dall’implementazione del Reddito di
+  Cittadinanza a Modena. *Social Policies, 12(1)*, 167-197.  
+  [doi: 10.7389/117599](https://doi.org/10.7389/117599)
+
+- Nannetti, F. & Scapolan A.C. (2025). Recruiting the next generation: insights from a
+  corpus study of job advertisements targeting Gen Z. In *Conference Proceedings EURAM
+  2025*. ISSN 2466-7498, ISBN 978-2-9602195-7-9.
+
+- Cavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C. & Fabbri, T. (2025). Employees’
+  attitudes and work-related stress in the digital workplace: an empirical investigation.
+  *Frontiers in Psychology, 16:1546832*.  
+  [doi: 10.3389/fpsyg.2025.1546832](https://doi.org/10.3389/fpsyg.2025.1546832)
+
+- Nannetti, F., & Di Cristofaro, M. (2024). Understanding the Future Green Workforce through
+  a Corpus of Curricula Vitae from Recent Graduates. In *Proceedings of the Tenth Italian
+  Conference on Computational Linguistics (CLiC-it 2024)*.  
+  [Aclanthology.org/2024.clicit-1.69/](https://aclanthology.org/2024.clicit-1.69/)
+
+
