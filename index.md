@@ -1,4 +1,4 @@
-# Francesca Nannetti's website
+# Francesca Nannetti
 
 Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio Emilia
 
@@ -56,9 +56,6 @@ I am passionate about everything related to language as a social practice; my in
   Thesis: *Chi è bilingue e chi è il bilingue: approccio neuropsicolinguistico allo studio del bilinguismo*  
   Subject: **Glottodidattica** · Supervisor: Yahis Martari  
   Final grade: **104/110** · Awarded: **Nov 2019**
-
-- **2016** — **Maturità classica**, Istituto Istruzione Superiore A. Paradisi, Vignola (MO)  
-  Final grade: **100/100**
 
 ---
 
