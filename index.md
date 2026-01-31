@@ -65,8 +65,21 @@ I am passionate about everything related to language as a social practice; my in
   Certificate: [FutureLearn certificate](https://www.futurelearn.com/certificates/hqubjac)  
   This course offered a practical introduction to corpus linguistics, covering skills necessary for collecting and analysing large digital collections of text. The use of corpora was demonstrated in a variety of areas including discourse analysis, sociolinguistics, and language learning and teaching.
 
+---
 
+## Research experience
 
+- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi 
+  Research activities across projects led by Fondazione Marco Biagi, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
+
+- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi 
+  Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*. 
+  **Activities:**
+  - Administration of semi-structured interviews and focus groups
+  - Textual data analysis (including the use of text analysis software)
+  - Construction and analysis of corpora using a Corpus-Assisted Discourse Studies (CADS) approach, combining quantitative corpus-linguistic techniques with qualitative discourse analysis
+  - Participation in research dissemination events (seminars, national and international conferences)
+  - Contribution to journal articles 
 
   ---
 
