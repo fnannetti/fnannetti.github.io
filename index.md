@@ -31,9 +31,9 @@ I am passionate about everything related to **language as a social practice**; m
 - Digital Humanities
 - Language data processing and analysis
 
-**Work, organizations & STS**
+**Work, organisations & STS**
 - Sociology of work
-- Organization Studies
+- Organisation Studies
 - Social Studies of Science and Technology
 
 ---
@@ -69,11 +69,14 @@ I am passionate about everything related to **language as a social practice**; m
 
 ## Research experience
 
-- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi 
+- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi
+   
   Research activities across projects led by Fondazione Marco Biagi, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
 
-- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi 
-  Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*. 
+- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi
+  
+  Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*.
+  
   **Activities:**
   - Administration of semi-structured interviews and focus groups
   - Textual data analysis (including the use of text analysis software)
@@ -94,7 +97,7 @@ I am passionate about everything related to **language as a social practice**; m
 
 - Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (2025) Can AI-driven Résumé Screening
   Reflect Human Competence Complexity? A Corpus-Assisted Discourse Analysis of Curricula
-  Vitae. In *WOA 2025 Proceedings - NAVIGATING ORGANIZATIONAL CHANGE IN TIMES OF
+  Vitae. In *WOA 2025 Proceedings - NAVIGATING ORGANISATIONAL CHANGE IN TIMES OF
   UNCERTAINTY*, 233-240. ISBN 979-12-210-9700-9.  
   [Proceedings/WOA2025](https://www.assioa.it/sito/wp-content/uploads/WOA2025_proceedings_merged.pdf)
 
@@ -116,5 +119,86 @@ I am passionate about everything related to **language as a social practice**; m
   a Corpus of Curricula Vitae from Recent Graduates. In *Proceedings of the Tenth Italian
   Conference on Computational Linguistics (CLiC-it 2024)*.  
   [Aclanthology.org/2024.clicit-1.69/](https://aclanthology.org/2024.clicit-1.69/)
+
+  ---
+
+## Talks
+
+- **Infrastrutture digitali e dimensione relazionale del lavoro sociale: il Reddito di Cittadinanza come caso studio**  
+  F. Nannetti, E. Costantini  
+  *X Convegno SISEC - L’era del disordine. Conflitto e cooperazione nel capitalismo contemporaneo, Università di Firenze*  
+  28/01/2026 -- 31/01/2026
+
+- **How Well Do Graduates and Organisations Match? Investigating Person-Organisation Fit from a Corpus Perspective**  
+  F. Nannetti, M. Di Cristofaro, A.C. Scapolan  
+  *XXII puntOorg En attendant... International Conferences, Università di RomaTre*  
+  18/12/2025 -- 19/12/2025
+
+- **Business communication in recruitment: A CADS approach to job advertisements**  
+  F. Nannetti, M. Di Cristofaro  
+  *Corpus Linguistics Conference (CL2025), Aston University & University of Birmingham*  
+  30/06/2025 -- 03/07/2025
+
+- **Recruiting the next generation: insights from a corpus study of job advertisements targeting Gen Z**  
+  F. Nannetti, A.C. Scapolan  
+  *EURAM 2025 Conference – Managing with purpose, Università di Firenze*  
+  23/06/2025 -- 25/06/2025
+
+- **From policy to practice: the digitalisation of social work in the implementation of the Italian minimum income scheme**  
+  F. Nannetti, E. Costantini  
+  *10th STS Italia Conference - Technoscience for Good: Designing, Caring, and Reconfiguring, Politecnico di Milano*  
+  11/06/2025 -- 13/06/2025
+
+- **From web scraping to machine-readable data: building and managing a corpus of job advertisements**  
+  F. Nannetti  
+  *UniMoRe Doctoral Programme in Human Sciences – Summer School 2024, Università di Modena e Reggio Emilia*  
+  03/06/2025 -- 06/06/2025
+
+- **Can AI-driven resume screening reflect human competence complexity? A Corpus-Assisted Discourse Analysis of Curricula Vitae**  
+  F. Nannetti, A.C. Scapolan  
+  *WOA XXVI - Workshop dei docenti e ricercatori di organizzazione aziendale, Università degli Studi d’Annunzio Chieti-Pescara*  
+  29/05/2025 -- 30/05/2025
+
+- **Dati testuali e strategie di analisi: metodi e interpretazioni**  
+  F. Nannetti  
+  *Seminar organised as part of the PhD course Humanities, Technology and Society, Collegio San Carlo, Modena*  
+  22/05/2025
+
+- **Dall’universalismo selettivo alla standardizzazione categorizzata: tra Reddito di Cittadinanza e nuove misure di contrasto alla povertà a Modena**  
+  F. Nannetti, G. Gallo, E. Costantini  
+  *Le dimensioni territoriali della povertà nelle pratiche del lavoro sociale, Fondazione Marco Biagi - Università di Modena e Reggio Emilia*  
+  15/05/2025
+
+- **From Algorithms to Narratives: The Objectivity of AI in Recruitment and a Discourse-Based Alternative**  
+  F. Nannetti, M. Di Cristofaro, A.C. Scapolan  
+  *22nd Conference in Commemoration of Professor Marco Biagi, Fondazione Marco Biagi - Università di Modena e Reggio Emilia*  
+  19/03/2025 -- 20/03/2025
+  
+- **Digitalizzazione in attesa e pratiche inattese di appropriazione e resistenza alla digitalizzazione del lavoro sociale: azioni e reazioni di un’équipe multiprofessionale nella gestione del Reddito di Cittadinanza a Modena**  
+  F. Nannetti, E. Costantini  
+  *IX Convegno SISEC - Visibili e invisibili nel capitalismo che cambia: imprese, lavoro, territori e politiche, Università di Pavia*  
+  29/01/2025 -- 01/02/2025
+
+- **Understanding the Future Green Workforce through a Corpus of Curricula Vitae from Recent Graduates**  
+  F. Nannetti, M. Di Cristofaro  
+  *CLiC-it 2024 – Tenth Italian Conference on Computational Linguistics, Auditorium Area della Ricerca – CNR, Pisa*  
+  04/12/2024 -- 06/12/2024
+
+- **Mapping the Green Workforce: A Corpus-Based Analysis of Skills and Job Opportunities in the Ecological Transition**  
+  F. Nannetti  
+  *UniMoRe Doctoral Programme in Human Sciences – Summer School 2024, Università di Modena e Reggio Emilia*  
+  03/06/2024 -- 07/06/2024
+
+- **Se non sei su GePI non esisti: le resistenze nel lavoro sociale regolato da piattaforma**  
+  F. Nannetti, E. Costantini  
+  *VIII Convegno SISEC - Lavoro, imprese e territori tra prossimità e distanza, Università degli Studi di Cagliari*  
+  31/01/2024 -- 03/02/2024
+
+- **Linguistic data as input for Human Resource Management Studies**  
+  F. Nannetti  
+  *UniMoRe Doctoral Programme in Human Sciences – Summer School 2023, Università di Modena e Reggio Emilia*  
+  12/06/2023 -- 16/06/2023
+
+
 
 
