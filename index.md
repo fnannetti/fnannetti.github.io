@@ -7,9 +7,9 @@
       </p>
     </td>
     <td style="border:0; width:140px; text-align:right; vertical-align:middle;">
-      <img src="/assets/img/profile2.jpeg"
+      <img src="/assets/img/profile.jpg"
            alt="fnannetti"
-           style="width:150px; height:140px; object-fit:cover; border-radius:50%" />
+           style="width:150px; height:150px; object-fit:cover; border-radius:50%" />
     </td>
   </tr>
 </table>
