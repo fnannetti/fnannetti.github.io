@@ -61,13 +61,13 @@ I am passionate about everything related to **language as a social practice**; m
   Curriculum: **Linguistics** · LM-14  
   Thesis: *Dalla Frame Semantics a FrameNet: studio di una risorsa lessicale e analisi della relazione di meronimia attraverso il frame Part–whole*  
   Subject: **Trattamento automatico delle lingue** · Supervisor: Fabio Tamburini  
-  Final grade: **109/110** · Awarded: **Mar 2022**
+  Awarded: **Mar 2022**
 
 - **2016–2019** — **BA in Humanities**, Alma Mater Studiorum – Università di Bologna  
   Curriculum: **Classico** · L-10 
   Thesis: *Chi è bilingue e chi è il bilingue: approccio neuropsicolinguistico allo studio del bilinguismo*  
   Subject: **Glottodidattica** · Supervisor: Yahis Martari  
-  Final grade: **104/110** · Awarded: **Nov 2019**
+  Awarded: **Nov 2019**
 
 ---
 
