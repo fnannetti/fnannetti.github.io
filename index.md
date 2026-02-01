@@ -9,7 +9,7 @@
     <td style="border:0; width:140px; text-align:right; vertical-align:middle;">
       <img src="/assets/img/profile.jpg"
            alt="Francesca Nannetti"
-           style="width:150px; height:140px; object-fit:cover; border-radius:50%;" />
+           style="width:150px; height:140px; object-fit:cover;" />
     </td>
   </tr>
 </table>
