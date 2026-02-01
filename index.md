@@ -7,7 +7,7 @@
       </p>
     </td>
     <td style="border:0; width:140px; text-align:right; vertical-align:middle;">
-      <img src="/assets/img/profile2.jpg"
+      <img src="/assets/img/profile2.jpeg"
            alt="fnannetti"
            style="width:150px; height:140px; object-fit:cover; border-radius:50%" />
     </td>
