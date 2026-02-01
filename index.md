@@ -1,7 +1,7 @@
 <table style="width:100%; border:0; border-collapse:collapse; margin-bottom:14px;">
   <tr>
     <td style="border:0; vertical-align:middle;">
-      <h1 style="margin:0;">Francesca Nannetti</h1>
+      <h1 style="margin:0;"></h1>
       <p style="margin:6px 0 0 0;">
         Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio Emilia
       </p>
