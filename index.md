@@ -1,7 +1,7 @@
 <table style="width:100%; border:0; border-collapse:collapse; margin-bottom:14px;">
   <tr>
     <td style="border:0; vertical-align:middle;">
-      <h1 style="margin:0;">Francesca Nannetti</h1>
+      <h1 style="margin:0;">fnannetti</h1>
       <p style="margin:6px 0 0 0;">
         Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio Emilia
       </p>
@@ -20,8 +20,8 @@
 
 - Email: [francesca.nannetti@unimore.it](mailto:francesca.nannetti@unimore.it)
 - LinkedIn: [linkedin.com/in/francesca-nannetti-1446b021b](https://www.linkedin.com/in/francesca-nannetti-1446b021b/)
-- ORCID: https://orcid.org/0009-0005-9197-869X
-- Bluesky: https://bsky.app/profile/francescanannetti.bsky.social
+- ORCID: [orcid.org/0009-0005-9197-869X](https://orcid.org/0009-0005-9197-869X)
+- Bluesky: [bsky.app/profile/francescanannetti.bsky.social](https://bsky.app/profile/francescanannetti.bsky.social)
 
 ---
 
