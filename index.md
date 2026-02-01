@@ -1,14 +1,14 @@
 <table style="width:100%; border:0; border-collapse:collapse; margin-bottom:14px;">
   <tr>
     <td style="border:0; vertical-align:middle;">
-      <h1 style="margin:0;">fnannetti</h1>
+      <h1 style="margin:0;">Francesca Nannetti</h1>
       <p style="margin:6px 0 0 0;">
         Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio Emilia
       </p>
     </td>
     <td style="border:0; width:140px; text-align:right; vertical-align:middle;">
       <img src="/assets/img/profile.jpg"
-           alt="Francesca Nannetti"
+           alt="fnannetti"
            style="width:150px; height:140px; object-fit:cover; border-radius:50%" />
     </td>
   </tr>
