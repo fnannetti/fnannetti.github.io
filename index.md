@@ -54,11 +54,11 @@ I am passionate about everything related to **language as a social practice**; m
 
 ## Research experience
 
-- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi
+- **Dec 2025–present** — Research Assistant, Marco Biagi Foundation - University of Modena and Reggio Emilia
    
-  Research activities across projects led by Fondazione Marco Biagi, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
+  Research activities across projects led by Marco Biagi Foundation, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
 
-- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi
+- **Jul 2023–May 2025** — Research Assistant, Marco Biagi Foundation - University of Modena and Reggio Emilia
   
   Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*.
   
@@ -73,17 +73,17 @@ I am passionate about everything related to **language as a social practice**; m
 
 ## Education
 
-- **October 2022–March 2026** — **PhD in Work, Development and Innovation**, Università di Modena e Reggio Emilia  
+- **October 2022–March 2026** — **PhD in Work, Development and Innovation**, University of Modena and Reggio Emilia
   Thesis: *Exploring Graduate Recruitment Practices through Job Advertisements and Curricula Vitae: a Corpus Approach to HRM Research*  
   Supervisor: Anna Chiara Scapolan · Co-supervisor: Matteo Di Cristofaro  
 
-- **2019–2022** — **MA in Italian Studies, European Literary Cultures and Linguistics**, Alma Mater Studiorum – Università di Bologna  
+- **2019–2022** — **MA in Italian Studies, European Literary Cultures and Linguistics**, Alma Mater Studiorum – University of Bologna  
   Curriculum: **Linguistics** · LM-14  
   Thesis: *Dalla Frame Semantics a FrameNet: studio di una risorsa lessicale e analisi della relazione di meronimia attraverso il frame Part–whole*  
   Subject: **Trattamento automatico delle lingue** · Supervisor: Fabio Tamburini  
   Awarded: **Mar 2022**
 
-- **2016–2019** — **BA in Humanities**, Alma Mater Studiorum – Università di Bologna  
+- **2016–2019** — **BA in Humanities**, Alma Mater Studiorum – University of Bologna  
   Curriculum: **Classico** · L-10 
   Thesis: *Chi è bilingue e chi è il bilingue: approccio neuropsicolinguistico allo studio del bilinguismo*  
   Subject: **Glottodidattica** · Supervisor: Yahis Martari  
