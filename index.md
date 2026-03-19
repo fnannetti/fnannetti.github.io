@@ -3,7 +3,7 @@
     <td style="border:0; vertical-align:middle;">
       <h1 style="margin:0;">Francesca Nannetti</h1>
       <p style="margin:6px 0 0 0;">
-        Postdoc Researcher · Fondazione Marco Biagi · Università di Modena e Reggio Emilia
+        Postdoc Research Assistant · Marco Biagi Foundation · University of Modena and Reggio Emilia
       </p>
     </td>
     <td style="border:0; width:140px; text-align:right; vertical-align:middle;">
