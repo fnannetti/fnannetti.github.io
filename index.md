@@ -27,7 +27,9 @@
 
 ## About
 
-During my PhD, I explored and applied **qualitative** and **quantitative** research tools to the **analysis of textual data** within interdisciplinary research projects. In particular, I built and analysed **corpora** using a **Corpus-Assisted Discourse Studies** (CADS) approach, which iteratively combines the more quantitative **corpus linguistics** element with the more qualitative **discourse analytical** perspective. 
+PhD is over! Now it’s time to step up as a **researcher**. 
+
+During the last few years I explored and applied **qualitative** and **quantitative** research tools to the **analysis of textual data** within interdisciplinary research projects. In particular, I built and analysed **corpora** using a **Corpus-Assisted Discourse Studies** (CADS) approach, which iteratively combines the more quantitative **corpus linguistics** element with the more qualitative **discourse analytical** perspective. 
 
 I am passionate about everything related to **language as a social practice**; my interests also include **human-machine interaction**, the **non-neutrality of technology**, and the **social** and **political** implications of phenomena such as the **datafication** and **platformisation** of society.
 
@@ -50,12 +52,30 @@ I am passionate about everything related to **language as a social practice**; m
 
 ---
 
+## Research experience
+
+- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi
+   
+  Research activities across projects led by Fondazione Marco Biagi, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
+
+- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi
+  
+  Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*.
+  
+  **Activities:**
+  - Administration of semi-structured interviews and focus groups
+  - Textual data analysis (including the use of text analysis software)
+  - Construction and analysis of corpora using a Corpus-Assisted Discourse Studies (CADS) approach, combining quantitative corpus-linguistic techniques with qualitative discourse analysis
+  - Participation in research dissemination events (seminars, national and international conferences)
+  - Contribution to journal articles 
+
+  ---
+
 ## Education
 
-- **2022–present** — **PhD in Work, Development and Innovation**, Università di Modena e Reggio Emilia  
+- **October 2022–March 2026** — **PhD in Work, Development and Innovation**, Università di Modena e Reggio Emilia  
   Thesis: *Exploring Graduate Recruitment Practices through Job Advertisements and Curricula Vitae: a Corpus Approach to HRM Research*  
   Supervisor: Anna Chiara Scapolan · Co-supervisor: Matteo Di Cristofaro  
-  Expected completion: **Mar 2026**
 
 - **2019–2022** — **MA in Italian Studies, European Literary Cultures and Linguistics**, Alma Mater Studiorum – Università di Bologna  
   Curriculum: **Linguistics** · LM-14  
@@ -78,25 +98,6 @@ I am passionate about everything related to **language as a social practice**; m
   This course offered a practical introduction to corpus linguistics, covering skills necessary for collecting and analysing large digital collections of text. The use of corpora was demonstrated in a variety of areas including discourse analysis, sociolinguistics, and language learning and teaching.
 
 ---
-
-## Research experience
-
-- **Dec 2025–present** — Research Assistant, Fondazione Marco Biagi
-   
-  Research activities across projects led by Fondazione Marco Biagi, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
-
-- **Jul 2023–May 2025** — Research Assistant, Fondazione Marco Biagi
-  
-  Qualitative research within the project *Il Reddito di Cittadinanza a Modena: analisi partecipata sull’attuazione della politica*.
-  
-  **Activities:**
-  - Administration of semi-structured interviews and focus groups
-  - Textual data analysis (including the use of text analysis software)
-  - Construction and analysis of corpora using a Corpus-Assisted Discourse Studies (CADS) approach, combining quantitative corpus-linguistic techniques with qualitative discourse analysis
-  - Participation in research dissemination events (seminars, national and international conferences)
-  - Contribution to journal articles 
-
-  ---
 
 ## Publications
 
