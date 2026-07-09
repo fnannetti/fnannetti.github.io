@@ -101,12 +101,13 @@ I am passionate about everything related to **language as a social practice**; m
 
 ## Publications
 
+- Costantini, E. & Nannetti, F. (*forthcoming*). From Policy to Practice: The Relational Cost of Digital Welfare - Evidence From Italy’s Reddito di Cittadinanza. In G. Punziano, D. Trezza and G. L. De Luca Picione (Eds.), Digital Welfare in Platform Societies: Governance, Participation, and Social Vulnerabilities. IGI Global. 
+  
 - Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (*forthcoming*). Reflecting on human
   competencies in the era of AI-driven recruitment: a Corpus-Assisted Discourse Study of
   Curricula Vitae. *Studi Organizzativi*.
 
-- Costantini, E. & Nannetti, F. (2026). «Se non sei su GePI non esisti»: opacità e
-  visibilità del lavoro nella riconfigurazione digitale del welfare. *Sociologia del Lavoro, 173*, 103-128. [doi: 10.3280/SL2025-173006](https://doi.org/10.3280/SL2025-173006)
+- Costantini, E. & Nannetti, F. (2026). «Se non sei su GePI non esisti»: opacità e visibilità del lavoro nella riconfigurazione digitale del welfare. *Sociologia del Lavoro, 173*, 103-128. [doi: 10.3280/SL2025-173006](https://doi.org/10.3280/SL2025-173006)
 
 - Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (2025). Can AI-driven Résumé Screening
   Reflect Human Competence Complexity? A Corpus-Assisted Discourse Analysis of Curricula
@@ -136,6 +137,11 @@ I am passionate about everything related to **language as a social practice**; m
   ---
 
 ## Talks
+
+- **Reddito di Cittadinanza e costruzione condivisa del sapere**
+  F. Nannetti
+  *V Conferenza Italiana sulla Ricerca di Servizio Sociale, Università di Catanania*
+  04/06/2026-06/06/2026
 
 - **Infrastrutture digitali e dimensione relazionale del lavoro sociale: il Reddito di Cittadinanza come caso studio**  
   F. Nannetti, E. Costantini  
