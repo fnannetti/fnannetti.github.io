@@ -140,7 +140,7 @@ I am passionate about everything related to **language as a social practice**; m
 
 - **Reddito di Cittadinanza e costruzione condivisa del sapere**
   F. Nannetti
-  *V Conferenza Italiana sulla Ricerca di Servizio Sociale, Università di Catanania*
+  *V Conferenza Italiana sulla Ricerca di Servizio Sociale, Università di Catania*
   04/06/2026-06/06/2026
 
 - **Infrastrutture digitali e dimensione relazionale del lavoro sociale: il Reddito di Cittadinanza come caso studio**  
