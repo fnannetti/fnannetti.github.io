@@ -216,7 +216,7 @@ I am passionate about everything related to **language as a social practice**; m
 - **Linguistic data as input for Human Resource Management Studies**  
   F. Nannetti  
   *UniMoRe Doctoral Programme in Human Sciences – Summer School 2023, Università di Modena e Reggio Emilia*  
-  12/06/2023 -- 16/06/2023
+  12/06/2023 -- 16/06/2023   
 
 
 
