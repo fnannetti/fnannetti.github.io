@@ -138,7 +138,7 @@ I am passionate about everything related to **language as a social practice**; m
 ## Talks
 - **Digital Welfare Infrastructures and Frontline Discretion: Reconfiguring Social Work in the Italian Minimum Income Scheme**  
   E. Costantini, F. Nannetti  
-  *ESPAnet 2026, Lisbon*  
+  *ESPAnet 2026, ISEG, University of Lisbon*  
   26/08/2026 -- 28/08/2026  
 
 - **Reddito di Cittadinanza e costruzione condivisa del sapere** <br>
