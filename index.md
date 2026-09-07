@@ -56,7 +56,7 @@ I am passionate about everything related to **language as a social practice**; m
 
 - **Dec 2025–present** — Research Assistant, Marco Biagi Foundation - University of Modena and Reggio Emilia
    
-  Research activities across projects led by Marco Biagi Foundation, including the design of data-collection instruments, fieldwork, qualitative data analysis, and reporting.
+  Research activities across projects led by Marco Biagi Foundation, including the design of data-collection instruments, fieldwork, data analysis, and reporting.
 
 - **Jul 2023–May 2025** — Research Assistant, Marco Biagi Foundation - University of Modena and Reggio Emilia
   
@@ -73,7 +73,7 @@ I am passionate about everything related to **language as a social practice**; m
 
 ## Education
 
-- **October 2022–March 2026** — **PhD in Work, Development and Innovation**, University of Modena and Reggio Emilia
+- **October 2022–March 2026** — **PhD in Work, Development and Innovation**, University of Modena and Reggio Emilia  
   Thesis: *Exploring Graduate Recruitment Practices through Job Advertisements and Curricula Vitae: a Corpus Approach to HRM Research*  
   Supervisor: Anna Chiara Scapolan · Co-supervisor: Matteo Di Cristofaro  
 
