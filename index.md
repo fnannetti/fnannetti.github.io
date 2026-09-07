@@ -49,6 +49,7 @@ I am passionate about everything related to **language as a social practice**; m
 - Sociology of work
 - Organisation Studies
 - Social Studies of Science and Technology
+- Digital Welfare
 
 ---
 
@@ -64,7 +65,7 @@ I am passionate about everything related to **language as a social practice**; m
   
   **Activities:**
   - Administration of semi-structured interviews and focus groups
-  - Textual data analysis (including the use of text analysis software)
+  - Textual data analysis (including the use of relevant software tools)
   - Construction and analysis of corpora using a Corpus-Assisted Discourse Studies (CADS) approach, combining quantitative corpus-linguistic techniques with qualitative discourse analysis
   - Participation in research dissemination events (seminars, national and international conferences)
   - Contribution to journal articles 
@@ -103,7 +104,7 @@ I am passionate about everything related to **language as a social practice**; m
 
 - Nannetti, F., Scapolan, A.C. & Di Cristofaro, M. (*forthcoming*). Reflecting on human competencies in the era of AI-driven recruitment: a Corpus-Assisted Discourse Study of Curricula Vitae. *Studi Organizzativi*.
 
-- Costantini, E. & Nannetti, F. (2026). From Policy to Practice: The Relational Cost of Digital Welfare - Evidence From Italy’s Reddito di Cittadinanza. In G. Punziano, D. Trezza and G. L. De Luca Picione (Eds.), *Digital Welfare in Platform Societies: Governance, Participation, and Social Vulnerabilities*, pp. 65-95. IGI Global. 
+- Costantini, E. & Nannetti, F. (2026). From Policy to Practice: The Relational Cost of Digital Welfare - Evidence From Italy’s Reddito di Cittadinanza. In G. Punziano, D. Trezza and G. L. De Luca Picione (Eds.), *Digital Welfare in Platform Societies: Governance, Participation, and Social Vulnerabilities*, pp. 65-95. IGI Global. [doi: 10.4018/979-8-2600-3048-6](https://doi.org/10.4018/979-8-2600-3048-6)
   
 - Costantini, E. & Nannetti, F. (2026). «Se non sei su GePI non esisti»: opacità e visibilità del lavoro nella riconfigurazione digitale del welfare. *Sociologia del Lavoro, 173*, 103-128. [doi: 10.3280/SL2025-173006](https://doi.org/10.3280/SL2025-173006)
 
@@ -135,6 +136,10 @@ I am passionate about everything related to **language as a social practice**; m
   ---
 
 ## Talks
+- **Digital Welfare Infrastructures and Frontline Discretion: Reconfiguring Social Work in the Italian Minimum Income Scheme**  
+  E. Costantini, F. Nannetti  
+  *ESPAnet 2026, Lisbon*  
+  26/08/2026 -- 28/08/2026  
 
 - **Reddito di Cittadinanza e costruzione condivisa del sapere** <br>
   F. Nannetti <br>
